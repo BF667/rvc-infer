@@ -2,7 +2,7 @@
 
 <center>A perfect set of tools for voice cloning, easily and free!</center>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kiurobox/python-rvc-cli/blob/main/colab/python_rvc_cli.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BF667/python-rvc-cli/blob/main/colab/python_rvc_cli.ipynb)
 
 > [!NOTE]  
 > this project only for inference duh
