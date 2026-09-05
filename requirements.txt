@@ -27,6 +27,8 @@ scikit-learn
 einops>=0.8.0
 ml_collections 
 rotary_embedding_torch
+torchcrepe 
+torchfcpe
 
 # Pitch and sound processing
 librosa>=0.10.2
@@ -34,7 +36,7 @@ pydub>=0.25.1
 praat-parselmouth
 soundfile>=0.13.0
 pedalboard
-
+noisereduce 
 # Data processing and calculation
 numpy>=1.25.2
 numba>=0.57.0
